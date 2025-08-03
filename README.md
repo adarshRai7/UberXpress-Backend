@@ -38,7 +38,7 @@ UberXpress-Backend is a robust backend service designed to power ride-hailing an
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/UberXpress-Backend.git
+    git clone https://github.com/adarshRai7/UberXpress-Backend.git
     cd UberXpress-Backend
     ```
 
