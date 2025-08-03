@@ -47,17 +47,15 @@ UberXpress-Backend is a robust backend service designed to power ride-hailing an
     npm install
     ```
 
-3. Configure environment variables in `example.env`:
+3. Prepare Environment File:
+    ```bash
+    cp example.env .env
     ```
-    MONGO_URI=your_mongo_connection_string
-    PORT=your_desired_port
-    JWT_SECRET=your_jwt_secret
-    REDIS_URI=your_redis_connection_string
-    ```
+    - Make changes to `.env` based on requirements.
 
 4. Start the server:
     ```bash
-    npm start
+    npm run start
     ```
 
 ## Contributing
